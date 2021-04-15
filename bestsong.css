@@ -33,14 +33,25 @@ h1 span:nth-child(6) {
 
 /* 기본 베이스*/
 
-h2{
-    font-size: 64px;
-    font-family: 'Do Hyeon', sans-serif;
+/*bestsong 기본베이스*/
+.right-stack{
+    padding-right: 1450px;
+    font-size: 20px;
+    text-align: center;
+}
+/*bestsong 기본베이스*/
+
+#index-1{
+    font-size: 20px;
+    text-align: center;
 }
 
-.mylist{
-    font-family: 'Poor Story', cursive;
-    font-size: 30px;
-    list-style: none;
+.song-lyrics-1{
+    font-size: 15px;
+    text-align: center;
 }
 
+#index-2{
+    font-size: 20px;
+    text-align: center;
+}
