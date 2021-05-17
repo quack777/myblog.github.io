@@ -1,0 +1,65 @@
+/* 기본 베이스*/
+
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Single+Day&display=swap');
+h1 {
+    text-align: center;
+    font-size: 75px;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+h1 span:nth-child(1) {
+    color: #4285f4;
+  }
+h1 span:nth-child(2) {
+    color: #ea4335;
+  }
+h1 span:nth-child(3) {
+    color: #fbbc05;
+  }
+h1 span:nth-child(4) {
+    color: #4285f4;
+  }
+h1 span:nth-child(5) {
+    color: #34a853;
+  }
+h1 span:nth-child(6) {
+    color: #ea4335;
+  }
+
+.nav {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 15px;
+}
+
+/* 기본 베이스*/
+
+
+.bonmun{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+#img{
+    font-size: 19px;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+.img{
+    text-align: center;
+}
+
+
+/* V2 기본 하단 베이스 */
+
+.basebar {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+/* V2 기본 하단 베이스 */

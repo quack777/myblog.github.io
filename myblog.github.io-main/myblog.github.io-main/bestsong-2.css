@@ -1,0 +1,61 @@
+/* 기본 베이스*/
+
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&family=Poor+Story&family=Single+Day&display=swap');
+h1 {
+    text-align: center;
+    font-size: 64px;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+h1 span:nth-child(1) {
+    color: #4285f4;
+  }
+h1 span:nth-child(2) {
+    color: #ea4335;
+  }
+h1 span:nth-child(3) {
+    color: #fbbc05;
+  }
+h1 span:nth-child(4) {
+    color: #4285f4;
+  }
+h1 span:nth-child(5) {
+    color: #34a853;
+  }
+h1 span:nth-child(6) {
+    color: #ea4335;
+  }
+
+.nav {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 15px;
+}
+
+/* 기본 베이스*/
+
+/*bestsong 기본베이스*/
+.right-stack{
+    padding-right: 1450px;
+    font-size: 20px;
+    text-align: center;
+}
+/*bestsong 기본베이스*/
+
+#index-1{
+  font-size: 20px;
+  text-align: center;
+}
+
+/* V2 기본 하단 베이스 */
+
+.basebar {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+/* V2 기본 하단 베이스 */
