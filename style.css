@@ -48,3 +48,18 @@ h1 span:nth-child(6) {
 .img{
     text-align: center;
 }
+
+
+/* V2 기본 하단 베이스 */
+
+.basebar {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+/* V2 기본 하단 베이스 */

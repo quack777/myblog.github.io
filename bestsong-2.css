@@ -40,3 +40,22 @@ h1 span:nth-child(6) {
     text-align: center;
 }
 /*bestsong 기본베이스*/
+
+#index-1{
+  font-size: 20px;
+  text-align: center;
+}
+
+/* V2 기본 하단 베이스 */
+
+.basebar {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+/* V2 기본 하단 베이스 */
